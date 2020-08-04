@@ -13,7 +13,10 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
+
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -37,7 +40,24 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br/>
+
+---
+
 <br />
+
+### Active Projects:
+
+- DevHub [Click Here][devhub]
+- Resume [Click Here][website]
+- IEEE SB Official Website [Click Here][ieee-sb]
+- Breaking Bad [Click Here][breakingbad]
+
+<br/>
+
+----
+
+<br/>
 
 <img align="left" alt="cypher-adi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cypher-adi&show_icons=true&hide_border=true" />
 
@@ -45,3 +65,6 @@
 [instagram]: https://instagram.com/cypher_adi
 [linkedin]: https://www.linkedin.com/in/aditya-kumar-934943133/
 [email]: mailto:adityasaha444@gmail.com
+[ieee-sb]: ieeesb-mmmut.herokuapp.com/
+[breakingbad]: https://cypher-adi.github.io/breaking_bad/
+[devhub]: https://github.com/cypher-adi/portal
