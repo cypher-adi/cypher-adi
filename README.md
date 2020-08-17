@@ -52,6 +52,7 @@
 - Resume [Click Here][website]
 - IEEE SB Official Website [Click Here][ieee-sb]
 - Breaking Bad [Click Here][breakingbad]
+- Hangman | MCU [Click Here][hangman]
 
 <br/>
 
@@ -67,4 +68,5 @@
 [email]: mailto:adityasaha444@gmail.com
 [ieee-sb]: ieeesb-mmmut.herokuapp.com/
 [breakingbad]: https://cypher-adi.github.io/breaking_bad/
+[hangman]: https://cypher-adi.github.io/hangman/
 [devhub]: https://github.com/cypher-adi/portal
