@@ -53,6 +53,7 @@
 - IEEE SB Official Website [Click Here][ieee-sb]
 - Breaking Bad [Click Here][breakingbad]
 - Hangman | MCU [Click Here][hangman]
+- Expense Tracker [Click Here][expense]
 
 <br/>
 
@@ -69,4 +70,5 @@
 [ieee-sb]: ieeesb-mmmut.herokuapp.com/
 [breakingbad]: https://cypher-adi.github.io/breaking_bad/
 [hangman]: https://cypher-adi.github.io/hangman/
+[expense]: https://cypher-adi.github.io/Expense_Tracker/
 [devhub]: https://github.com/cypher-adi/portal
