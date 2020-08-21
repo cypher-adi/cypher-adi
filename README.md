@@ -50,7 +50,6 @@
 
 - DevHub [Click Here][devhub]
 - Resume [Click Here][website]
-- IEEE SB Official Website [Click Here][ieee-sb]
 - Breaking Bad [Click Here][breakingbad]
 - Hangman | MCU [Click Here][hangman]
 - Expense Tracker [Click Here][expense]
@@ -67,7 +66,6 @@
 [instagram]: https://instagram.com/cypher_adi
 [linkedin]: https://www.linkedin.com/in/aditya-kumar-934943133/
 [email]: mailto:adityasaha444@gmail.com
-[ieee-sb]: ieeesb-mmmut.herokuapp.com/
 [breakingbad]: https://cypher-adi.github.io/breaking_bad/
 [hangman]: https://cypher-adi.github.io/hangman/
 [expense]: https://cypher-adi.github.io/Expense_Tracker/
