@@ -60,7 +60,7 @@
 
 <br/>
 
-<img align="left" alt="cypher-adi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cypher-adi&show_icons=true&hide_border=true" />
+<img align="left" alt="cypher-adi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cypher-adi&count_private=true&show_icons=true&hide_border=true" />
 
 [website]: https://cypher-resume.herokuapp.com/
 [instagram]: https://instagram.com/cypher_adi
