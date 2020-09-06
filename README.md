@@ -53,6 +53,7 @@
 - Breaking Bad [Click Here][breakingbad]
 - Hangman | MCU [Click Here][hangman]
 - Expense Tracker [Click Here][expense]
+- Dev API [Click Here][dev_api]
 
 <br/>
 
@@ -70,3 +71,4 @@
 [hangman]: https://cypher-adi.github.io/hangman/
 [expense]: https://cypher-adi.github.io/Expense_Tracker/
 [devhub]: https://github.com/cypher-adi/portal
+[dev_api]: https://cypher-adi.github.io/dev_api/
