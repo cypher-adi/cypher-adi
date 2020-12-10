@@ -50,6 +50,7 @@
 
 - DevHub [Click Here][devhub]
 - Resume [Click Here][website]
+- Rick & Morty World [Click Here][rick_morty]
 - Breaking Bad [Click Here][breakingbad]
 - Hangman | MCU [Click Here][hangman]
 - Expense Tracker [Click Here][expense]
@@ -72,3 +73,4 @@
 [expense]: https://cypher-adi.github.io/Expense_Tracker/
 [devhub]: https://github.com/cypher-adi/portal
 [dev_api]: https://cypher-adi.github.io/dev_api/
+[rick_morty]: https://rick-morty-911.web.app/
