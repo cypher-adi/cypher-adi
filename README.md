@@ -71,6 +71,6 @@
 [breakingbad]: https://cypher-adi.github.io/breaking_bad/
 [hangman]: https://cypher-adi.github.io/hangman/
 [expense]: https://cypher-adi.github.io/Expense_Tracker/
-[devhub]: https://github.com/cypher-adi/portal
+[devhub]: https://devhub-mmmut.herokuapp.com/
 [dev_api]: https://cypher-adi.github.io/dev_api/
 [rick_morty]: https://rick-morty-911.web.app/
